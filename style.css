@@ -1,0 +1,55 @@
+header {
+    text-align: right;
+  }
+
+#button_1{
+    color: #4285F4;
+}
+
+  body{
+    font-style: roboto;
+   
+  }
+
+  div {
+    border: 5px solid none;
+   
+  }
+.logo {
+    text-align: center;
+    align-items: center;
+
+    }
+.recherche {
+    text-align: center;
+    align-items: center;
+}
+
+.gestes {
+    text-align: center;
+    
+}
+
+
+
+
+footer{
+    color: #F2F2F2;
+    bottom: 40px;
+    margin-bottom: 40px;
+    align-items: flex-end;
+   
+}
+
+.section_1 {
+    display: flex;
+    float: left;
+    
+} 
+.section_2 {
+    display: flex;
+    float: right;
+} 
+.section1, div {
+margin-left: auto;
+}
